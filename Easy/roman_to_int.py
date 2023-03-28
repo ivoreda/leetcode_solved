@@ -11,4 +11,4 @@ def romanToInt(s: str) -> int:
             result += roman_numerals[s[i]]
     print(result)
 
-romanToInt('IV')
+romanToInt('MCMXCVIII')
